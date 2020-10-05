@@ -48,5 +48,13 @@ $(document).ready(function(){
     }).mouseleave(function() {
       $(".work8").hide();
     });
-  
+$("form").submit(function(event){
+    if($("input").val()===""){
+        alert("enter a valid data")
+    }
+    else{
+        alert("your message was received")
+    }
+    event.preventDefault();
+});
   
