@@ -13,7 +13,7 @@ Additionally, it allows users to send messages and receive alert confirmations u
  * HTML
  * Javascript
  * CSS
- *jquerry
+ 
 
 ## Behaviour
 
