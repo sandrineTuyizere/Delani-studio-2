@@ -58,3 +58,8 @@ $("form").submit(function(event){
     event.preventDefault();
 });
   
+$(document).ready(function(){
+  $("#imgdesign").click(function(){
+    $("#wedodesign").toggle();
+  });
+});
