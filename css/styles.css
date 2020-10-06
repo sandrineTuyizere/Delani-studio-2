@@ -4,6 +4,7 @@
     height: 700px;
     text-align: center;
     color: white;
+    font-size: 100%;
 }
 
 #logo {
@@ -26,7 +27,22 @@
     background-image: url("../img/backgrounds/c_image.jpg");
     background-size: cover;
     height: max-content;
+    text-align: center;
+}
+.whatWeDo image:hover {
+    cursor: pointer,
+}
+.whatWeDo image:hover {
+    cursor: pointer,
 }
 
+h1{
+    text-align: center;
+    cursor: pointer;
+}
 
+.portfolio:hover {
+background-color: teal;
+
+}
 
